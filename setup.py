@@ -12,6 +12,6 @@ setup(
     author_email='dustin@yahoo-inc.com',
     license='MIT',
     url='http://github.com/yahoo/yos-social-python/tree/master',
-    packages=['yahoo', 'oauthlib', 'openid', 'simplejson'],
-    package_dir={'yahoo': 'src/yahoo', 'oauthlib': 'src/oauthlib', 'openid': 'src/openid', 'simplejson': 'src/simplejson'}
+    packages=['yahoo', 'oauthlib', 'openid'],
+    package_dir={'yahoo': 'src/yahoo', 'oauthlib': 'src/oauthlib', 'openid': 'src/openid'}
 )
