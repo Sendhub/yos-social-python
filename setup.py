@@ -5,8 +5,8 @@ __author__ = 'Dustin Whittle <dustin@yahoo-inc.com>'
 from distutils.core import setup
 
 setup(
-    name='yos-social-sdk',
-    version='0.0.5',
+    name='yos_social_sdk',
+    version='0.0.6',
     description='Python client library for Yahoo! Social + Data REST APIs',
     author='Dustin Whittle',
     author_email='dustin@yahoo-inc.com',
